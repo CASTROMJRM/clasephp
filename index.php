@@ -15,10 +15,12 @@ $suma=$x + $y;
 $resta=$x - $y;
 $multiplicacion=$x * $y;
 $division=$x / $y;
+$raiz_cuadrada_x = sqrt($x);
 echo "La suma es $x + $y  =$suma <br>";
 echo "La resta es $x - $y  =$resta <br>";
 echo "La Multiplicación es $x * $y  =$multiplicacion <br>";
 echo "La división es $x / $y  =$division <br>";
+echo "La raíz cuadrada de $x es = $raiz_cuadrada_x <br>";
 ?>
 
 <!DOCTYPE html>
