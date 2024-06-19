@@ -15,10 +15,10 @@ $suma=$x + $y;
 $resta=$x - $y;
 $multiplicacion=$x * $y;
 $division=$x / $y;
-echo "La suna es $x + $y  =$suma <br>";
-echo "La suna es $x + $y  =$resta <br>";
-echo "La suna es $x + $y  =$multiplicacion <br>";
-echo "La suna es $x + $y  =$division <br>";
+echo "La suma es $x + $y  =$suma <br>";
+echo "La resta es $x - $y  =$resta <br>";
+echo "La Multiplicación es $x * $y  =$multiplicacion <br>";
+echo "La división es $x / $y  =$division <br>";
 ?>
 
 <!DOCTYPE html>
